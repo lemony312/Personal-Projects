@@ -1,0 +1,161 @@
+import java.io.IOException;
+import java.util.*; 
+import java.util.Random;
+public class ultimateTest {
+	public static void main (String[] args) throws IOException {
+        Scanner scan = new Scanner(System.in);
+		words test = new words();
+		test.dictionary();
+    	printMenu();
+        int choice = scan.nextInt();
+        while(choice!=0){
+        	char[][] MyLetteres = new char[4][4];
+        	boolean[][] tracker =new boolean[MyLetteres.length][MyLetteres.length];
+        	switch(choice)
+        	{
+        	case 0: 
+        		System.out.println("Bye!");
+        		break;
+        	case 1:
+        		System.out.println("Enter letters from left to right");
+        		String letter=scan.next();
+        		int te=0;
+        		for (int gr=0;gr<MyLetteres.length;gr++){//read them in
+        			for (int f=0;f<MyLetteres.length;f++){
+        				MyLetteres[gr][f]=letter.charAt(te);
+        				te++;
+        			}
+        		}
+        		for (int q=0;q<MyLetteres.length;q++){//print them 
+        			for (int d=0;d<MyLetteres.length;d++){
+        				System.out.print(MyLetteres[q][d]);
+        			}
+        			System.out.println();
+        		}
+            	for (int gr=0;gr<MyLetteres.length;gr++){//create array of falseness
+        			for (int f=0;f<MyLetteres.length;f++){
+        				tracker[gr][f]=false;
+        			}
+        		}
+            	long startTime1 = System.nanoTime();
+        		for (int gr=0;gr<MyLetteres.length;gr++){//end letter changes everytime
+        			for (int f=0;f<MyLetteres.length;f++){
+        				String word=MyLetteres[gr][f]+"";//intial letter  		
+        				test.getPaths(gr,f,word,tracker,MyLetteres,true);
+        			}
+        		}
+        		System.out.println(test.getDicFinal());
+        		System.out.println("There are "+test.getCount()+" on this board!");
+        		long endTime = System.nanoTime();
+        		long elapsedTime = endTime - startTime1;
+        		double seconds = (double)elapsedTime / 1000000000.0;
+        		System.out.println("This took "+seconds+" seconds");
+        		System.out.print("would you like to see the words that are a specific length? (y or n)");
+        		if(scan.next().equals("y")){
+        			System.out.print("Enter the length: ");
+        			test.specificLengthsOfWords(scan.nextInt());
+        		}
+        		
+        		break;
+        	case 2:
+        		System.out.print("Please enter the string of letters: ");
+        		String word=scan.next();
+        		boolean[][] MyLetteres2 =new boolean[word.length()][word.length()];
+            	boolean[][] tracker1 =new boolean[word.length()][word.length()];
+        		String[]words=new String[word.length()];
+        		for (int f=0;f<word.length();f++){
+    				tracker1[f][0]=false;
+    				MyLetteres2[f][0]=false;
+    				words[f]=word.charAt(f)+"";
+    			}
+        		for(int i=0;i<word.length();i++){
+        			String temp=words[i];
+        			test.Permext(i,i,temp,words,tracker1,MyLetteres2,true);
+        		}
+         		System.out.print("\nThe words that can be made are : "+test.getDicFinal());
+         		System.out.print("\nThere are: "+test.getCount()+" words");
+        		break;
+        	case 3:
+        		System.out.print("Please enter the string of letters: ");
+        		String letters=scan.next();
+        		System.out.print("Please enter how long the word you are looking for is: ");
+        		test.permutation("", letters,true,scan.nextInt());
+        		System.out.print("\nThe words that can be made are : "+test.getDicFinal());
+        		System.out.print("\nThere are: "+test.getCount()+" words");
+        		break;
+        	case 4:
+        		System.out.println("Enter phrase: ");
+        		test.Check(scan.next());
+        		System.out.println(test.getTempDic());
+        		System.out.print(test.getTempDic().size());
+        		break;
+        	case 5:
+        		System.out.println(test.getDic());
+        		System.out.print("\nThere are: "+test.getDic().size()+" words in the dictionary");
+        		break;
+        	case 6:
+        		Random rand = new Random();
+        		System.out.println("Lets play Boggle!");
+        		for (int gr=0;gr<MyLetteres.length;gr++){//create them
+        			for (int f=0;f<MyLetteres.length;f++){
+        				MyLetteres[gr][f]=(char)(rand.nextInt(26) + 'a');
+        			}
+        		}
+        		for (int q=0;q<MyLetteres.length;q++){//print them 
+        			for (int d=0;d<MyLetteres.length;d++){
+        				System.out.print(MyLetteres[q][d]);
+        			}
+        			System.out.println();
+        		}
+            	for (int gr=0;gr<MyLetteres.length;gr++){//create array of falseness
+        			for (int f=0;f<MyLetteres.length;f++){
+        				tracker[gr][f]=false;
+        			}
+        		}
+        		for (int gr=0;gr<MyLetteres.length;gr++){//end letter changes everytime
+        			for (int f=0;f<MyLetteres.length;f++){		//gets all words that can be on the board.
+        				String word1=MyLetteres[gr][f]+"";//intial letter  		
+        				test.getPaths(gr,f,word1,tracker,MyLetteres,true);
+        			}
+        		}
+        		System.out.println(test.getDicFinal());
+        		System.out.print("There are "+test.getCount()+" on this board!");
+        		long startTime = System.nanoTime();
+        		long endTime1=0;
+        		long maxDurationInMilliseconds = 2 * 60 * 1000;
+        		while (2 * 60 * 1000> endTime1-startTime) {
+        			System.out.println(System.currentTimeMillis());
+        			System.out.print("Guess a word on the board! ");
+        			if(test.CheckGame(scan.next())==true){
+        				System.out.print("Good job! ");
+        			}
+        			else	
+        				System.out.print("Guess again! ");
+        			endTime1 = System.nanoTime();
+        		}
+        		System.out.println("You guessed "+test.getUserCount()+" out of "+test.getCount());
+        		System.out.println("You were only "+(test.getCount()-test.getUserCount())+" words off!");
+        		System.out.println("All the words you could have spelled from this game are: "+test.getDicFinal());
+        		break;
+        	default:
+        		System.out.println("Sorry, invalid choice");
+        	}
+        	printMenu();
+        	choice = scan.nextInt();
+        }
+	}
+	public static void printMenu()
+	{
+		System.out.println("\n Menu ");
+		System.out.println(" ====");
+		System.out.println("0: Quit");
+		System.out.println("1: Solve a boggle/ruzzle board!");
+		System.out.println("2: Find all words created with the set of letters!");
+		System.out.println("3: Find all words created with the set of letters!(working)");
+		System.out.println("4: Find all words that start with a phrase!");
+		System.out.println("5: Print the Dictionary");
+		System.out.println("6: Play Boggle!");
+		System.out.print("\nEnter your choice: ");
+	}
+}
+

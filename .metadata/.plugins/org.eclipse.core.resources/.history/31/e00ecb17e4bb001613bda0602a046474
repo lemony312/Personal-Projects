@@ -1,0 +1,96 @@
+package boggle;
+
+import java.util.List;
+
+public class Solver {
+
+	private static Dictionary dictionary;
+
+	public Solver() {
+		dictionary = Dictionary.getInstance();
+	}
+
+	public List<String> solve(BoggleBoard board) {
+		Trie boardWords = new Trie();
+		for (BoggleCharacter character : board) {
+			getPath(character, character.toString(), boardWords);
+		}
+
+		return boardWords.getAllStrings();
+	}
+
+	public void getPath(BoggleCharacter curChar, String prefix, Trie boardWords) {
+		if (!isPrefix(prefix, boardWords)) {
+			return;
+		}
+		
+		curChar.isVisited = true;
+		for (BoggleCharacter character : curChar.edges) {
+			if (!character.isVisited) {
+				getPath(character, prefix + character.letter, boardWords);
+			}
+		}
+		curChar.isVisited = false;
+	}
+
+	public boolean isPrefix(String word, Trie boardWords) {
+		if (word.length() > 1) {
+			if (dictionary.contains(word)) {
+				boardWords.addWord(word);
+				return true;
+			}
+			return dictionary.isValidPrefix(word);
+		}
+		return true;
+	}
+
+	/**
+	 * adds valid words to users list.
+	 * 
+	 * @return true - valid prefix
+	 */
+	public boolean processLetters() {
+		return false;
+	}
+
+	public void getPaths(int x, int y, String word, boolean tracker[][], char MyLetteres[][], boolean isValid) {
+		if (processLetters()) {
+			tracker[x][y] = true; // mark visited
+			if (x + 1 < MyLetteres.length && tracker[x + 1][y] == false) {// up
+				getPaths(x + 1, y, word + MyLetteres[x + 1][y], tracker, MyLetteres, true);
+			}
+			if (x - 1 >= 0 && tracker[x - 1][y] == false) {// down
+				getPaths(x - 1, y, word + MyLetteres[x - 1][y], tracker, MyLetteres, true);
+			}
+			if (y + 1 < MyLetteres.length && tracker[x][y + 1] == false) {// right
+				// System.out.print("3 ("+x+","+(y+1)+"), ");
+				getPaths(x, y + 1, word + MyLetteres[x][y + 1], tracker, MyLetteres, true);
+			}
+			if (y - 1 >= 0 && tracker[x][y - 1] == false) {// left
+				// System.out.print("4 ("+x+","+(y-1)+"), ");
+				getPaths(x, y - 1, word + MyLetteres[x][y - 1], tracker, MyLetteres, true);
+			}
+			if (x + 1 < MyLetteres.length && y + 1 < MyLetteres.length && tracker[x + 1][y + 1] == false) {// right,
+																											// up
+				// System.out.print("5 ("+(x+1)+","+(y+1)+"), ");
+				getPaths(x + 1, y + 1, word + MyLetteres[x + 1][y + 1], tracker, MyLetteres, true);
+			}
+			if (x - 1 >= 0 && y - 1 >= 0 && tracker[x - 1][y - 1] == false) {// down,
+																				// left
+				// System.out.print("6 ("+(x-1)+","+(y-1)+"), ");
+				getPaths(x - 1, y - 1, word + MyLetteres[x - 1][y - 1], tracker, MyLetteres, true);
+			}
+			if (x - 1 >= 0 && y + 1 < MyLetteres.length && tracker[x - 1][y + 1] == false) {// down,
+																							// right
+				// System.out.print("7 ("+(x-1)+","+(y+1)+"), ");
+				getPaths(x - 1, y + 1, word + MyLetteres[x - 1][y + 1], tracker, MyLetteres, true);
+			}
+			if (x + 1 < MyLetteres.length && y - 1 >= 0 && tracker[x + 1][y - 1] == false) {// up,
+																							// left
+				// System.out.print("8 ("+(x+1)+","+(y-1)+"), ");
+				getPaths(x + 1, y - 1, word + MyLetteres[x + 1][y - 1], tracker, MyLetteres, true);
+			}
+			tracker[x][y] = false;
+		}
+	}
+}
