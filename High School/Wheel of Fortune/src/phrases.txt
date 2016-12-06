@@ -1,0 +1,402 @@
+﻿Phrase|A chain is only as strong as its weakest link
+Phrase|a change is as good as a rest
+Phrase|a drop in the bucket
+Phrase|a finger in many pies
+Phrase|a friend in need is a friend indeed
+Phrase|a good head on his shoulders
+Phrase|a good man is hard to find
+Phrase|a head for heights
+Phrase|a healthy mind in a healthy body
+Phrase|a heart of gold
+Phrase|a horse a horse my kingdom for a horse
+Phrase|a house divided against itself cannot stand
+Phrase|a kick in the teeth
+Phrase|a leopard cannot change its spots
+Phrase|a little knowledge is a dangerous thing
+Phrase|a little bit of what you fancy does you good
+Phrase|a penny saved is a penny earned
+Phrase|a person is known by the company he keeps
+Phrase|a picture paints a thousand words
+Phrase|a place for everything and everything in its place
+Phrase|a problem shared is a problem halved
+Phrase|a rose by any other name would smell as sweet
+Phrase|a stitch in time saves nine
+Phrase|a thing of beauty is a joy forever
+Phrase|a watched pot never boils
+Phrase|absence makes the heart grow fonder
+Phrase|actions speak louder than words
+Phrase|all work and no play makes Jack a dull boy
+Phrase|all's well that ends well
+Phrase|an apple a day keeps the doctor away
+Phrase|an army marches on its stomach
+Phrase|an Englishman's home is his castle
+Phrase|april is the cruellest month
+Phrase|as dead as a dodo
+Phrase|as plain as the nose on your face
+Phrase|as pleased as punch
+Phrase|ask no questions and hear no lies
+Phrase|attack is the best form of defence
+Phrase|Banging your head against a brick wall
+Phrase|barking dogs seldom bite
+Phrase|beauty is in the eye of the beholder
+Phrase|beauty is only skin deep
+Phrase|beggars can't be choosers
+Phrase|behind every great man there's a great woman
+Phrase|better late than never
+Phrase|better safe than sorry
+Phrase|better the devil you know than the devil you don't
+Phrase|better to have loved and lost than never to have loved at all
+Phrase|beware the ides of march
+Phrase|birds of a feather flock together
+Phrase|bite the hand that feeds you
+Phrase|blessed are the peacemakers
+Phrase|blood is thicker than water
+Phrase|born with a silver spoon in his mouth
+Phrase|bury your head in the sand
+Phrase|by the skin of your teeth
+Phrase|by the sweat of his brow
+Phrase|Can't make head nor tail of it
+Phrase|can't see beyond the end of your nose
+Phrase|caught with your hand in the till
+Phrase|charity begins at home
+Phrase|cleanliness is next to godliness
+Phrase|countenance more in sorrow than in anger
+Phrase|cross my palm with silver
+Phrase|cut off your nose to spite your face
+Phrase|cut your coat to suit your cloth
+Phrase|Discretion is the better part of valour
+Phrase|do as you would be done by
+Phrase|don't bite the hand that feeds you
+Phrase|don't count your chickens before they are hatched
+Phrase|don't look a gift horse in the mouth
+Phrase|don't put all your eggs in one basket
+Phrase|doubt is the beginning not the end of wisdom
+Phrase|Easy come easy go
+Phrase|eat drink and be merry
+Phrase|enough is as good as a feast
+Phrase|every cloud has a silver lining
+Phrase|every dog has his day
+Phrase|everybody wants to go to heaven but nobody wants to die
+Phrase|Fail to plan, then plan to fail!
+Phrase|faint heart never won fair lady
+Phrase|faith will move mountains
+Phrase|familiarity breeds contempt
+Phrase|fifteen men on a dead man's chest
+Phrase|finders keepers losers weepers
+Phrase|fish and guests smell after three days
+Phrase|fools rush in where angels fear to tread
+Phrase|for everything there is a season
+Phrase|forewarned is forearmed
+Phrase|fortune favours the brave
+Phrase|Get off on the right foot
+Phrase|get out of the wrong side of the bed
+Phrase|get the bit between your teeth
+Phrase|god helps those who help themselves
+Phrase|good fences make good neighbours
+Phrase|good things come to those who wait
+Phrase|great minds think alike
+Phrase|Handsome is as handsome does
+Phrase|hard work never did anyone any harm
+Phrase|he wears his heart on his sleeve
+Phrase|he who can does he who cannot teaches
+Phrase|he who laughs last laughs longest
+Phrase|he who lives by the sword shall die by the sword
+Phrase|he who pays the piper calls the tune
+Phrase|hell has no fury like a woman scorned
+Phrase|hoist by your own petard
+Phrase|holding your cards close to your chest
+Phrase|home is where the heart is
+Phrase|If a job is worth doing it is worth doing well
+Phrase|if at first you don't succeed try try and try again
+Phrase|if music be the food of love play on
+Phrase|if wishes were horses beggars would ride
+Phrase|if you can't beat 'em join 'em
+Phrase|if you can't stand the heat get out of the kitchen
+Phrase|imitation is the sincerest form of flattery
+Phrase|in the kingdom of the blind the one-eyed man is king
+Phrase|it's better to give than to receive
+Phrase|it's better to light a candle than curse the darkness
+Phrase|it's better to travel hopefully than to arrive
+Phrase|Jokers laugh today, for you will not laugh tomorrow
+Phrase|Keep your ear to the ground
+Phrase|keep your eye on the ball
+Phrase|keep your finger on the pulse
+Phrase|keep your head above water
+Phrase|keep your nose to the grindstone
+Phrase|keep your shoulder to the wheel
+Phrase|Laugh and the world laughs with you weep and you weep alone
+Phrase|laughter is the best medicine
+Phrase|let bygones be bygones
+Phrase|let not the sun go down on your wrath
+Phrase|let sleeping dogs lie
+Phrase|let the punishment fit the crime
+Phrase|life begins at forty
+Phrase|life is what you make it
+Phrase|lightening never strikes twice in the same place
+Phrase|live for today for tomorrow never comes
+Phrase|love is blind
+Phrase|love of money is the root of all evil
+Phrase|love thy neighbour as thyself
+Phrase|Make love not war
+Phrase|man does not live by bread alone
+Phrase|many are called but few are chosen
+Phrase|marry in haste repent at leisure
+Phrase|mighty oaks from little acorns grow
+Phrase|misery loves company
+Phrase|money doesn't grow on trees
+Phrase|money makes the world go round
+Phrase|more haste less speed
+Phrase|more honoured in the breach than in the observance
+Phrase|more power to your elbow
+Phrase|more than meets the eye
+Phrase|Nail your colours to the mast
+Phrase|nature abhors a vacuum
+Phrase|necessity is the mother of invention
+Phrase|never judge a book by its cover
+Phrase|never put off until tomorrow what you can do today
+Phrase|no man is an island
+Phrase|no rest for the wicked
+Phrase|nothing is certain but death and taxes
+Phrase|O ye of little faith
+Phrase|old soldiers never die they just fade away
+Phrase|once more unto the breach dear friends once more
+Phrase|one foot in the grave
+Phrase|one good turn deserves another
+Phrase|only fools and horses work
+Phrase|opportunity only knocks once
+Phrase|out of sight out of mind
+Phrase|out of the mouths of babes and sucklings
+Phrase|People who live in glass houses shouldn't throw stones
+Phrase|physician heal thyself
+Phrase|possession is nine tenths of the law
+Phrase|power corrupts absolute power corrupts absolutely
+Phrase|practise makes perfect
+Phrase|pride comes before a fall
+Phrase|procrastination is the thief of time
+Phrase|put your best foot forward
+Phrase|put your head on the block
+Phrase|put your money where your mouth is
+Phrase|Quick, quick, quick today makes slow, slow, slow tomorrow
+Phrase|Red sky at night shepherds delight
+Phrase|red sky in the morning shepherds warning
+Phrase|religion is the opium of the people
+Phrase|revenge is a dish best served cold
+Phrase|Rome wasn't built in a day
+Phrase|Set your heart on something
+Phrase|shaken not stirred
+Phrase|shoot yourself in the foot
+Phrase|shuffle off this mortal coil
+Phrase|sick to the stomach
+Phrase|smiling from ear to ear
+Phrase|smiling like a Cheshire cat
+Phrase|smooth runs the water where the brook is deep
+Phrase|spare the rod and spoil the child
+Phrase|speak softly and carry a big stick
+Phrase|stick your neck out
+Phrase|still waters run deep
+Phrase|straight from the horse's mouth
+Phrase|stupid is as stupid does
+Phrase|Take the bit between your teeth
+Phrase|talk is cheap
+Phrase|tear your hair out
+Phrase|that which does not kill us makes us stronger
+Phrase|the black sheep of the family
+Phrase|the blind leading the blind
+Phrase|the boot's on the other foot
+Phrase|the boy is father to the man
+Phrase|the course of true love never did run smooth
+Phrase|the darkest hour is just before the dawn
+Phrase|the devil finds work for idle hands to do
+Phrase|the die has been cast
+Phrase|the early bird catches the worm
+Phrase|the hand is quicker than the eye
+Phrase|the hand that rocks the cradle rules the world
+Phrase|the longest journey starts with a single step
+Phrase|the more things change the more they stay the same
+Phrase|the pen is mightier than sword
+Phrase|the proof of the pudding is in the eating
+Phrase|the salt of the earth
+Phrase|the way to a man's heart is through his stomach
+Phrase|the writing is on the wall
+Phrase|there are none so blind as those that will not see
+Phrase|there's always more fish in the sea
+Phrase|there's method in my madness
+Phrase|there's more than one way to skin a cat
+Phrase|there's no fool like an old fool
+Phrase|there's no smoke without fire
+Phrase|there's no such thing as a free lunch
+Phrase|those who do not learn from history are doomed to repeat it
+Phrase|time and tide wait for no man
+Phrase|to err is human to forgive divine
+Phrase|too many cooks spoil the broth
+Phrase|two heads are better then one
+Phrase|Uneasy lies the head that wears a crown
+Phrase|Very little is achieved by he who risks nothing.
+Phrase|Wash your mouth out with soap and water
+Phrase|waste not want not
+Phrase|wear your heart on your sleeve
+Phrase|when the cat's away the mice will play
+Phrase|where there's a will there's a way
+Phrase|You can't make an omelette without breaking eggs
+Phrase|you can't teach an old dog new tricks
+Phrase|you can't judge a book by its cover
+Phrase|youth is wasted on the young
+Noun|Margaret Thatcher
+Noun|Thomas Edison
+Noun|Mother Teresa
+Noun|Helen Keller
+Noun|Madonna
+Noun|Jacqueline Kennedy Onasis
+Noun|Tom Brokaw
+Noun|James Taylor
+Noun|Mr. Rogers
+Noun|Isaac Newton
+Noun|Lewis Carrol
+Noun|Andy Rooney
+Noun|General Norman Schwarzkopf
+Noun|Norman Rockwell
+Noun|Pablo Piccaso
+Noun|Paul McCartney
+Noun|Plato
+Noun|Edgar Allen Poe
+Noun|Elvis
+Noun|Mae West
+Noun|Ernest Hemingway
+Noun|Vincent Van Gogh
+Noun|W.C.Fields
+Noun|Robin Williams
+Noun|Walt Disney
+Noun|Walter Cronkite
+Noun|Shakespeare
+Noun|Frank Lloyd Wright
+Noun|Julia Roberts
+Noun|John F. Kennedy, Jr.
+Noun|Terry Bradshaw
+Noun|Gloria Steinem
+Noun|Charles Dickens
+Noun|Thomas Edison
+Noun|Whoopi Goldberg
+Noun|Sigourney Weaver
+Noun|Bill Clinton
+Noun|Dave Letterman
+Noun|Newt Gingrich
+Noun|Jim Carrey
+Noun|Mary Tyler Moore
+Noun|Danny Glover
+Noun|Carol Burnett
+Noun|Paul Harvey
+Noun|Alicia Silverstone
+Noun|Neil Diamond
+Noun|Julia Child
+Noun|George Carlin
+Noun|Valerie Harper
+Noun|John Candy
+Noun|Weird Al Yankovick
+Noun|Marilyn Vos Savant
+Noun|Tom Hanks
+Noun|C. G. Jung
+Noun|William James
+Noun|Henri Mancini
+Noun|Bob Newhart
+Noun|Meryl Streep
+Noun|Benny Goodman
+Noun|Harrison Ford
+Noun|Steve Martin
+Noun|Ronald Regan
+Noun|Dan Aykroyd
+Noun|Susan B. Anthony
+Noun|Arthur Ashe
+Noun|Augustus Caesar
+Noun|Jane Austen
+Noun|William F. Buckley, Jr.
+Noun|Chevy Chase
+Noun|Phil Donahue
+Noun|Peter Jennings
+Noun|Charles Everett Koop
+Noun|C. S. Lewis
+Noun|Roy Rogers
+Noun|Chuck Yeager
+Noun|Jack Nicholson
+Noun|Charlie Brown
+Noun|Oprah Winfrey
+Noun|Paul Newman
+Noun|Pelé
+Noun|Fred Astaire
+Noun|Eddie Murphy
+Noun|Jimmy Conners
+Noun|Michael J. Fox
+Noun|Ross Perot
+Noun|Sean Connery
+Noun|Elizabeth Dole
+Noun|Dick Van Dyke
+Noun|Andy Griffith
+Noun|Peyton Manning
+Noun|Nathaniel Hawthorne
+Noun|Shirley MacLaine
+Noun|Michael Landon
+Noun|John Katz
+Noun|Billy Crystal
+Noun|Carrie Fisher
+Noun|Darth Vader
+Noun|Bill Cosby
+Noun|Bill Gates
+Noun|Bob Dylan
+Noun|Carl Sagan
+Noun|Charles Yeager
+Noun|Colin L. Powell
+Noun|Diana, Princess of Wales
+Noun|Henry A. Kissinger
+Noun|Elvis Presley
+Noun|Madonna
+Noun|Mahatma Gandhi
+Noun|Michael J. Jordan
+Noun|Michele Pfeiffer
+Noun|Doris Day
+Noun|Liberace
+Noun|Elizabeth Taylor
+Noun|Yogi Berra
+Noun|Dan Rather
+Noun|Ervin "Magic" Johnson
+Noun|Michael Jackson
+Noun|John Travolta
+Noun|Tom Cruise
+Noun|Spider Man
+Noun|James Dean
+Noun|Clint Eastwood
+Noun|Ray Charles
+Noun|Jesse Jackson
+Noun|Thomas Jefferson
+Noun|Hank Aaron
+Noun|Mohammad Ali
+Noun|Aristotle
+Noun|Neil Armstrong
+Noun|Lucille Ball
+Noun|Hank Aaron
+Noun|Beethoven
+Noun|Alexander Graham Bell
+Noun|Napoleon
+Noun|George Washington
+Noun|Cleopatra
+Noun|Columbus
+Noun|Dr. Seuss
+Noun|Albert Einstein
+Noun|Eisenhower
+Noun|F Lee Bailey
+Noun|Ben Franklin
+Noun|Sigmund Freud
+Noun|Gandhi
+Noun|Alfred Hitchcock
+Noun|Bob Hope
+Noun|Harry Houdini
+Noun|Martin Luther King
+Noun|John Lennon
+Noun|Leonardo Da Vinci
+Noun|Lewis And Clark
+Noun|Abraham Lincoln
+Noun|Louis Pasteur
+Noun|Marilyn Monroe
+Noun|Mark Twain
+Noun|Willey Mays
+Noun|Michelangelo
+Noun|Miles Davis
+Noun|Mozart

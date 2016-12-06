@@ -1,0 +1,159 @@
+﻿Noun|Margaret Thatcher
+Noun|Thomas Edison
+Noun|Mother Teresa
+Noun|Helen Keller
+Noun|Madonna
+Noun|Jacqueline Kennedy Onasis
+Noun|Tom Brokaw
+Noun|James Taylor
+Noun|Mr. Rogers
+Noun|Isaac Newton
+Noun|Lewis Carrol
+Noun|Andy Rooney
+Noun|General Norman Schwarzkopf
+Noun|Norman Rockwell
+Noun|Pablo Piccaso
+Noun|Paul McCartney
+Noun|Plato
+Noun|Edgar Allen Poe
+Noun|Elvis
+Noun|Mae West
+Noun|Ernest Hemingway
+Noun|Vincent Van Gogh
+Noun|W.C.Fields
+Noun|Robin Williams
+Noun|Walt Disney
+Noun|Walter Cronkite
+Noun|Shakespeare
+Noun|Frank Lloyd Wright
+Noun|Julia Roberts
+Noun|John F. Kennedy, Jr.
+Noun|Terry Bradshaw
+Noun|Gloria Steinem
+Noun|Charles Dickens
+Noun|Thomas Edison
+Noun|Whoopi Goldberg
+Noun|Sigourney Weaver
+Noun|Bill Clinton
+Noun|Dave Letterman
+Noun|Newt Gingrich
+Noun|Jim Carrey
+Noun|Mary Tyler Moore
+Noun|Danny Glover
+Noun|Carol Burnett
+Noun|Paul Harvey
+Noun|Alicia Silverstone
+Noun|Neil Diamond
+Noun|Julia Child
+Noun|George Carlin
+Noun|Valerie Harper
+Noun|John Candy
+Noun|Weird Al Yankovick
+Noun|Marilyn Vos Savant
+Noun|Tom Hanks
+Noun|C. G. Jung
+Noun|William James
+Noun|Henri Mancini
+Noun|Bob Newhart
+Noun|Meryl Streep
+Noun|Benny Goodman
+Noun|Harrison Ford
+Noun|Steve Martin
+Noun|Ronald Regan
+Noun|Dan Aykroyd
+Noun|Susan B. Anthony
+Noun|Arthur Ashe
+Noun|Augustus Caesar
+Noun|Jane Austen
+Noun|William F. Buckley, Jr.
+Noun|Chevy Chase
+Noun|Phil Donahue
+Noun|Peter Jennings
+Noun|Charles Everett Koop
+Noun|C. S. Lewis
+Noun|Roy Rogers
+Noun|Chuck Yeager
+Noun|Jack Nicholson
+Noun|Charlie Brown
+Noun|Oprah Winfrey
+Noun|Paul Newman
+Noun|Pelé
+Noun|Fred Astaire
+Noun|Eddie Murphy
+Noun|Jimmy Conners
+Noun|Michael J. Fox
+Noun|Ross Perot
+Noun|Sean Connery
+Noun|Elizabeth Dole
+Noun|Dick Van Dyke
+Noun|Andy Griffith
+Noun|Peyton Manning
+Noun|Nathaniel Hawthorne
+Noun|Shirley MacLaine
+Noun|Michael Landon
+Noun|John Katz
+Noun|Billy Crystal
+Noun|Carrie Fisher
+Noun|Darth Vader
+Noun|Bill Cosby
+Noun|Bill Gates
+Noun|Bob Dylan
+Noun|Carl Sagan
+Noun|Charles Yeager
+Noun|Colin L. Powell
+Noun|Diana, Princess of Wales
+Noun|Henry A. Kissinger
+Noun|Elvis Presley
+Noun|Madonna
+Noun|Mahatma Gandhi
+Noun|Michael J. Jordan
+Noun|Michele Pfeiffer
+Noun|Doris Day
+Noun|Liberace
+Noun|Elizabeth Taylor
+Noun|Yogi Berra
+Noun|Dan Rather
+Noun|Ervin "Magic" Johnson
+Noun|Michael Jackson
+Noun|John Travolta
+Noun|Tom Cruise
+Noun|Spider Man
+Noun|James Dean
+Noun|Clint Eastwood
+Noun|Ray Charles
+Noun|Jesse Jackson
+Noun|Thomas Jefferson
+Noun|Hank Aaron
+Noun|Mohammad Ali
+Noun|Aristotle
+Noun|Neil Armstrong
+Noun|Lucille Ball
+Noun|Hank Aaron
+Noun|Beethoven
+Noun|Alexander Graham Bell
+Noun|Napoleon
+Noun|George Washington
+Noun|Cleopatra
+Noun|Columbus
+Noun|Dr. Seuss
+Noun|Albert Einstein
+Noun|Eisenhower
+Noun|F Lee Bailey
+Noun|Ben Franklin
+Noun|Sigmund Freud
+Noun|Gandhi
+Noun|Alfred Hitchcock
+Noun|Bob Hope
+Noun|Harry Houdini
+Noun|Martin Luther King
+Noun|John Lennon
+Noun|Leonardo Da Vinci
+Noun|Lewis And Clark
+Noun|Abraham Lincoln
+Noun|Louis Pasteur
+Noun|Marilyn Monroe
+Noun|Mark Twain
+Noun|Willey Mays
+Noun|Michelangelo
+Noun|Miles Davis
+Noun|Mozart
