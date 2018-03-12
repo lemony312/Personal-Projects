@@ -1,0 +1,7 @@
+{
+  "api": {
+    "port": 8080
+  },
+  "mongoUrl": "mongodb://todopractice:a1234567@ds115071.mlab.com:15071/todopractice",
+  "cloudfrontURI":""
+}

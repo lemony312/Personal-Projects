@@ -1,0 +1,28 @@
+{
+  "api": {
+    "port": 8080,
+    "url": "",
+    "api_token_expiration_days": 30,
+    "jwt_token_secret": ",S72i}P%3D0}~z"
+  },
+  "mongoUrl": "mongodb://todopractice:a1234567@ds115071.mlab.com:15071/todopractice",
+  "queues": {
+    "email_queue_url": ""
+  },
+  "reset_password_url": "",
+  "mail": {
+    "from": "",
+    "auth": {
+      "user": "",
+      "password": ""
+    }
+  },
+  "aws": {
+    "credentials": {
+      "user": "",
+      "accessKeyId": "",
+      "secretAccessKey": ""
+    }
+  },
+  "cloudfrontURI": ""
+}
